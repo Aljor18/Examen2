@@ -192,5 +192,26 @@ body {
 	
 .cta h2 {
 	font-weight: 600;
-	font-size: 
+	font-size: 40px;
+	text-align: left;
+	margin-left: 100px;
+	padding-top: 40px;
+}
+
+.cta p {
+	font-size: 25px;
+	font-weight: normal;
+	text-align: left;
+	margin-left: 100px;
+}
+
+.cta button {
+	font-weight: normal;
+	text-align: left;
+	margin-right: 1180px;
+	margin-bottom: 100px;
+}
+
+footer {
+	padding-top: 50px;
 }
